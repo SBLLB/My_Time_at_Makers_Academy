@@ -144,7 +144,7 @@ Week 5
 
         - Rock, Paper, Scissors game written in Javascript.
 
-  - [x] [Bowling Scorer Logic](https://github.com/SBLLB/10Pin_Bowling_Scorer)(Weekend project)
+  - [x] [Bowling Scorer Logic](https://github.com/SBLLB/10Pin_Bowling_Scorer)
 
         - A program written in Javascript that counts and sums the scores of a bowling game.
 
@@ -211,7 +211,7 @@ Week 8
 
         - A introduction to Ruby on Rails
 
-  - [ ] [Instagram]() (
+  - [ ] [Instagram]() 
 
         - A weekend assignment to re-create Instagram
 
@@ -229,7 +229,7 @@ Week 9
 
 ####Projects:
 
-  - [x] [FundrMental](https://github.com/alexfakhri/University-KickstartertRacer)(Makeathon Week)
+  - [x] [FundrMental](https://github.com/alexfakhri/University-KickstartertRacer) (Makeathon Week)
 
     - A kickstarter website directed purely at universities, giving funders more control over what their donations to universities are spent on. Built in two days in Ruby on Rails and deployed to Heroku - [see it here](https://fundrmental.herokuapp.com/). 
 
