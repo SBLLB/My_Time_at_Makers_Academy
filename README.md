@@ -1,7 +1,7 @@
 Makers Academy
 ===================
 
-#####A summary of topics covered and projects assigned at [Makers Academy](https://www.makersacademy.com), a 12 week development bootcamp course. 
+#####A summary of topics covered and projects assigned at [Makers Academy](https://www.makersacademy.com), a 12 week development bootcamp course. Graduating December 2014.
 
 Pre-Course
 -----------
@@ -35,15 +35,15 @@ Week 1
 
         - A challenge testing our command line skills.
 
-  - [x] [Boris Bikes](https://github.com/SBLLB/Boris_Bikes) (Weekday Challenge)
+  - [x] [Boris Bikes](https://github.com/SBLLB/Boris_Bikes) 
 
         - A system written in Ruby mimicing a cycle hire scheme.
 
-  - [x] [FAAST](https://github.com/SBLLB/Challenge3_FAAST) (Weekend Challenge)
+  - [x] [FAAST](https://github.com/SBLLB/Challenge3_FAAST) 
 
         - Logic written in Ruby mimicing a tube system with passengers.
 
-  - [x] [Octocat Challenge](https://github.com/SBLLB/Challenge2_Octocat) (Friday Challenge)
+  - [x] [Octocat Challenge](https://github.com/SBLLB/Challenge2_Octocat) 
 
         - A challenge set to test our ability to use Github.
 
@@ -57,17 +57,17 @@ Week 2
 
 ####Projects:
 
-  - [x] [BattleShips](https://github.com/galicians/battleships) (Weekday Challenge)
+  - [x] [BattleShips](https://github.com/galicians/battleships) 
 
   - [x] [Fizzbuzz](https://github.com/Scully87/FizzBuzz)
 
         - Simple Ruby Kata
 
-  - [ ] [Take-Away]() (Weekend Challenge)
+  - [ ] [Take-Away]() 
 
         - A program written in Ruby, mimicking a takeaway ordering system. Incorporating the Twillo Gem.
 
-  - [x] [Inject Method](https://github.com/SBLLB/Challenge4-Monkeypatching)(Weekend Challenge)
+  - [x] [Inject Method](https://github.com/SBLLB/Challenge4-Monkeypatching)
 
         - Opening up the Inject method to get a better understanding.
 
@@ -84,11 +84,11 @@ Week 3
 
 ####Projects:
 
-  - [ ] [BattleShips Web](https://github.com/SBLLB/Battleships_Take2) (Weekday Challenge)
+  - [ ] [BattleShips Web](https://github.com/SBLLB/Battleships_Take2) 
 
         - A two player battleship game in Ruby
 
-  - [x] [Rock Paper Scissors](https://github.com/SBLLB/RockPaperScissors) (Weekend Challenge)
+  - [x] [Rock Paper Scissors](https://github.com/SBLLB/RockPaperScissors) 
 
         - Writing a game of Rock, Paper, Scissors that can be played in the browser.
 
@@ -107,11 +107,11 @@ Week 4
 
 ####Projects:
 
-  - [x] [Bookmark Manager](https://github.com/SBLLB/Bookmarks_Project) (Weekday Challenge)
+  - [x] [Bookmark Manager](https://github.com/SBLLB/Bookmarks_Project) 
 
         - Building a bookmark manager. An intro to databases.
 
-  - [ ] [Twitter Clone]() (Weekend Challenge)
+  - [ ] [Twitter Clone]() 
 
         - Creating a twitter clone using Databases.
 
@@ -207,13 +207,13 @@ Week 8
 
 ####Projects:
 
-  - [x] [Yelp Clone](https://github.com/SBLLB/yelp_clone)(weekday project)
+  - [x] [Yelp Clone](https://github.com/SBLLB/yelp_clone) 
 
         - A introduction to Ruby on Rails
 
-  - [ ] [Instagram]()(Weekend Challenge)
+  - [ ] [Instagram]() (
 
-        - A weekend assignment to re-create [Instagram](http://www.instagram.com)
+        - A weekend assignment to re-create Instagram
 
 Week 9
 --------
@@ -239,6 +239,7 @@ Week 10
 ####Technologies Used:
   - Ruby
   - RSpec
+  - PHP
 
 ####Projects:
 
