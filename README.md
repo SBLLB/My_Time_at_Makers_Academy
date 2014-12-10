@@ -260,6 +260,8 @@ Week 11 & 12
 
 ####Final Project
 
+## <img src="http://i62.tinypic.com/20u9546.png">
+
   - [x] Working in a team of 6 to build [Flicky Notes](https://github.com/karinnielsen/Final-Project-POSTit). Flicky Notes is a meeting app which allows you to write your own notes on a mobile device and then, with a simple swipe movement, send it to the board on your desktop.
 
   Watch a video explaining how to use [here](https://www.youtube.com/watch?v=qpGh8sWWuV0&feature=youtu.be)
