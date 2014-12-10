@@ -214,6 +214,10 @@ Week 8
   - [ ] [Instagram]() 
 
         - A weekend assignment to re-create Instagram
+  
+  - [x] [Ruby Refresher](https://github.com/SBLLB/Wk7_Ruby_Refresher_Challenge)   
+
+        - A weekend challenge to refresh our memory on Ruby methods having spent the previous weeks working in Javascript. 
 
 Week 9
 --------
